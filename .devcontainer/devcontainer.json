@@ -9,7 +9,8 @@
                 "GitHub.copilot-chat",
                 "GitHub.copilot",
                 "tsandall.opa",
-                "yzhang.markdown-all-in-one"
+                "yzhang.markdown-all-in-one",
+                "golang.go"
             ]
         }
     }

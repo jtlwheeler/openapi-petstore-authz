@@ -1,5 +1,5 @@
 package: api
 generate:
-  std-http-server: true
+  chi-server: true
   models: true
-output: internal/gen/api/petstore.go
+output: internal/api/petstore.gen.go
