@@ -1,0 +1,7 @@
+rules:
+  imports:
+    unresolved-reference:
+      level: error
+      except-paths:
+        - data.user_roles
+        - data.role_permissions
