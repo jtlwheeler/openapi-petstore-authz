@@ -4,7 +4,7 @@ OPA ?= opa
 POLICY_DIR ?= policies
 
 test:
-	$(OPA) test $(POLICY_DIR)
+	$(OPA) test -v $(POLICY_DIR)
 
 check:
 	$(OPA) check $(POLICY_DIR)

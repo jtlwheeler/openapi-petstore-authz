@@ -8,7 +8,8 @@
             "extensions": [
                 "GitHub.copilot-chat",
                 "GitHub.copilot",
-                "tsandall.opa"
+                "tsandall.opa",
+                "yzhang.markdown-all-in-one"
             ]
         }
     }
